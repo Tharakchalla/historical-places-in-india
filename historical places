@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Historical places in india</title>
+    <style>
+        #Header{
+            top: 0px;
+            width: 100%;
+            position: fixed;
+            background-image: linear-gradient(120deg,orange,white,green);
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #Footer{
+            bottom: 0px;
+            width: 100%;
+            position:relative;
+            color: cornsilk;
+            background-color:purple;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #a{
+            color:ghostwhite;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            background-image: linear-gradient(120deg,#3a86ff,#3a5a40);
+        }
+    </style>
+</head>
+<body>
+        <h1 id="Header">HISTORICAL PLACES IN INDIA</h1><br><br><br><br><br>
+                <div class="container text-center" style="background-image:linear-gradient(120deg,orange,white,green);font-style: italic;"">
+                    <div class="row row-cols-2">
+                      <div class="col-lm">
+                        <h2>1.Taj Mahal,Agra</h2>
+                        <img src="https://thumbs.dreamstime.com/b/taj-mahal-agra-india-morning-light-reflection-water-uttar-pradesh-108954918.jpg" class="img-fluid" style="width:420px;height:281px;"><br>
+                        <a href="https://en.wikipedia.org/wiki/Taj_Mahal" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col-lm">
+                        <h2> 2.Qutub Minar,Delhi</h2>
+                        <img src="https://gumlet.assettype.com/freepressjournal/2022-05/8b6d9edd-5fa3-4b4c-8309-42da84b5f222/qutub.jpg" class="img-fluid" style="width:420px;height:281px;"><br>
+                        <a href="https://en.wikipedia.org/wiki/Qutb_Minar" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>3.Hawa Mahal,Jaipur</h2>
+                        <img src="https://imgcld.yatra.com/ytimages/image/upload/t_yt_blog_c_fill_q_auto:good_f_auto_w_800_h_500/v1495524602/Hawa_Mahal_is_a_beautiful_palace_in_Jaipur.jpg" class="img-fluid" style="width:420px;height:281px"><br>
+                        <a href="https://en.wikipedia.org/wiki/Hawa_Mahal" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>4.Victoria Memorial,Kolkata</h2>
+                        <img src="https://www.holidify.com/images/cmsuploads/compressed/attr_1884_20190329150438.jpg" class="img-fluid" style="width:420px;height:281px"><br>
+                        <a href="https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>5.India Gate,New Delhi</h2>
+                        <img src="https://www.holidify.com/images/cmsuploads/compressed/5621259188_e74d63cb05_b_20180302140149.jpg" class="img-fluid" style="width:420px;height:281px"><br>
+                        <a href="https://en.wikipedia.org/wiki/India_Gate" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>6.Jallianwala Bagh,Amritsar </h2>
+                        <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/3EC9/production/_120337061_gettyimages-1234943959-594x594.jpg" class="img-fluid" style="width:420px;height:281px"><br>
+                        <a href="https://en.wikipedia.org/wiki/Jallianwala_Bagh" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>7.Sun Temple,Konark</h2>
+                        <img src="https://img.veenaworld.com/wp-content/uploads/2021/03/Konark-Sun-Temple-History-Architecture-and-Information.jpeg?imwidth=1080"  class="img-fluid" style="width:420px;height:281px"><br>
+                        <a href="https://en.wikipedia.org/wiki/Konark_Sun_Temple" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                      <div class="col">
+                        <h2>8.Red Fort,Old Delhi</h2>
+                        <img src="https://media-cdn.tripadvisor.com/media/photo-s/10/3c/4a/42/fb-img-1502472371491.jpg" class="img-fluid" style="width:420px;height:281px;"><br>
+                        <a href="https://en.wikipedia.org/wiki/Red_Fort" target="_blank" id="a">CLICK HERE TO GET MORE INFO!!!</a>
+                      </div>
+                    </div>
+                </div><br>
+                <h3 id="Footer">Designed and Developed by Challa Tharaka Hari Krishna</h3>
+</body>
+</html>
